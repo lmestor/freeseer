@@ -510,7 +510,7 @@ v4l2src does not work.</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>190</width>
+             <width>187</width>
              <height>181</height>
             </rect>
            </property>
@@ -1078,16 +1078,53 @@ v4l2src does not work.</string>
   </action>
  </widget>
  <tabstops>
+  <tabstop>eventEdit</tabstop>
   <tabstop>roomEdit</tabstop>
+  <tabstop>dateTimeEdit</tabstop>
   <tabstop>presenterEdit</tabstop>
   <tabstop>titleEdit</tabstop>
   <tabstop>confirmAddTalkButton</tabstop>
+  <tabstop>cancelAddTalkButton</tabstop>
+  <tabstop>checkBox</tabstop>
   <tabstop>checkBox_2</tabstop>
+  <tabstop>checkBox_4</tabstop>
   <tabstop>checkBox_3</tabstop>
   <tabstop>recordButton</tabstop>
   <tabstop>talkList</tabstop>
   <tabstop>audioFeedbackCheckbox</tabstop>
-  <tabstop>audioFeedbackSlider</tabstop>
+  <tabstop>editTab</tabstop>
+  <tabstop>eventList</tabstop>
+  <tabstop>roomList</tabstop>
+  <tabstop>testButton</tabstop>
+  <tabstop>videoConfigBox</tabstop>
+  <tabstop>localDesktopButton</tabstop>
+  <tabstop>hardwareButton</tabstop>
+  <tabstop>recordLocalDesktopButton</tabstop>
+  <tabstop>recordLocalWindowButton</tabstop>
+  <tabstop>recordLocalAreaButton</tabstop>
+  <tabstop>areaButton</tabstop>
+  <tabstop>usbsrcButton</tabstop>
+  <tabstop>firewiresrcButton</tabstop>
+  <tabstop>videoDeviceList</tabstop>
+  <tabstop>soundConfigBox</tabstop>
+  <tabstop>audioSourceList</tabstop>
+  <tabstop>resolutionComboBox</tabstop>
+  <tabstop>autoHideCheckbox</tabstop>
+  <tabstop>videoDirectoryLineEdit</tabstop>
+  <tabstop>videoDirectoryButton</tabstop>
+  <tabstop>talksFileButton</tabstop>
+  <tabstop>talksFileLineEdit</tabstop>
+  <tabstop>shortRecordLineEdit</tabstop>
+  <tabstop>shortStopLineEdit</tabstop>
+  <tabstop>shortRecordButton</tabstop>
+  <tabstop>shortStopButton</tabstop>
+  <tabstop>resetSettingsButton</tabstop>
+  <tabstop>applySettingsButton</tabstop>
+  <tabstop>rssEdit</tabstop>
+  <tabstop>rssButton</tabstop>
+  <tabstop>addTalkButton</tabstop>
+  <tabstop>removeTalkButton</tabstop>
+  <tabstop>resetButton</tabstop>
  </tabstops>
  <resources>
   <include location="resource.qrc"/>
